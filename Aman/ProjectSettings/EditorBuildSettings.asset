@@ -5,7 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/1_ForceEVT.unity
+    guid: 67428d7aca6a64d559801b9c95a9248a
+  - enabled: 1
+    path: Assets/Scenes/1_Jungle.unity
+    guid: 581e5f9126bba4d419eda41f9feb2834
   m_configObjects: {}
